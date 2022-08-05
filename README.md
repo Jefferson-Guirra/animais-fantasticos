@@ -26,7 +26,7 @@ O site é composto por quatro seções:
 
 ## 🚀  Funcionalidades
 
-O projeto visou o aprendizado desde o básico ao avaçando de JavaScript, criando manualmente funcionalidade como:
+O projeto visou o aprendizado desde o básico ao avaçando de JavaScript, criando manualmente funcionalidades como:
 
 - Accordion-List;
 - Modal;
