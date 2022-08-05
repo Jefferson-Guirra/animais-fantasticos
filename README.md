@@ -33,6 +33,7 @@ O projeto visou o aprendizado desde o básico ao avaçando de JavaScript, criand
 - Slide;
 - Animar ao scroll;
 
+---
 
 ### Ajustes e melhorias
 
