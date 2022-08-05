@@ -9,7 +9,7 @@
 
 <br>
 
-<h4 align="center"><a href="https://doctor-care-clinica.netlify.app/">Clique para visitar o projeto</a></h4>
+<h4 align="center"><a href="https://jefferson-guirra.github.io/-Projetos/projeto-02/">Clique para visitar o projeto</a></h4>
 
 ## 📚 Seções
 
