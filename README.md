@@ -4,7 +4,7 @@
 
 <img src="img/animais-fantasticos.JPG" alt="Doctor Care">
 
-> Landing page criada simulando uma Ong de proteção a animais, neste website é informado as espécies que estão em processo de extinção. Para criação foi usado HTML, Css, JavaScript.
+> Landing page criada simulando uma Ong de proteção a animais, neste website é informado as espécies que estão em processo de extinção.
 
 
 <br>
@@ -24,14 +24,14 @@ O site é composto por quatro seções:
 ---
 <br>
 
-## 🚀  Funcionalidades
+## 🚀  Ferramentas usadas:
 
-O projeto visou o aprendizado desde o básico ao avaçando de JavaScript, criando manualmente funcionalidades como:
+O projeto visou o aprendizado desde o básico ao avaçando de JavaScript, criando manualmente funcionalidades como - Accordion-List, Modal ,Slide;
+ Animação ao scroll:
 
-- Accordion-List;
-- Modal;
-- Slide;
-- Animar ao scroll;
+- HTML;
+- Css;
+- JavaScript;
 
 ---
 
