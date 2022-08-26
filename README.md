@@ -26,8 +26,8 @@ O site é composto por quatro seções:
 
 ## 🚀  Ferramentas usadas:
 
-O projeto visou o aprendizado desde o básico ao avaçando de JavaScript, criando manualmente funcionalidades como - Accordion-List, Modal ,Slide;
- Animação ao scroll:
+O projeto visou o aprendizado desde o básico ao avaçando de JavaScript, criando manualmente funcionalidades como - Accordion-List, Modal, Slide,
+ Animação ao scroll.
 
 - HTML;
 - Css;
